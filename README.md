@@ -20,5 +20,17 @@ An interactive educational game built using Python and Pygame to promote awarene
 - Answer questions to level up
 - Pause button available in-game
 
-## Author
-Kalpana 
+## Gameplay
+##### Interface
+![Gameplay](assets/images/startsscreen.png)
+
+##### Question Screen
+![Quiz](assets/images/question.png)
+
+##### Level UP
+![Level up](assets/images/levelup.png)
+
+##### Game Over
+![Game Over](assets/images/gameoverr.png)
+
+
