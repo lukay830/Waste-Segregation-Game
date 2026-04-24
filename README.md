@@ -22,15 +22,14 @@ An interactive educational game built using Python and Pygame to promote awarene
 
 ## Gameplay
 ##### Interface
-![Gameplay](assets/images/gameplay.png)
+<img src="assets/images/gameplay.png" width="550"/>
 
 ##### Question Screen
-![Quiz](assets/images/question.png)
+<img src="assets/images/question.png" width="550"/>
 
 ##### Level UP
-![Level up](assets/images/levelup.png)
+<img src="assets/images/levelup.png" width="550"/>
 
 ##### Game Over
-![Game Over](assets/images/gameoverr.png)
-
+<img src="assets/images/gameoverr.png" width="550"/>
 
