@@ -22,7 +22,7 @@ An interactive educational game built using Python and Pygame to promote awarene
 
 ## Gameplay
 ##### Interface
-![Gameplay](assets/images/startsscreen.png)
+![Gameplay](assets/images/gameplay.png)
 
 ##### Question Screen
 ![Quiz](assets/images/question.png)
